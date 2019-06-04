@@ -1,0 +1,49 @@
+body {background-color: lavenderblush;
+}
+
+#boxedin {
+	width: 950px;
+	margin: 40px auto 60px;
+}
+
+#see {
+	float: right;
+  	border-radius: 70%;
+  	width: 350px;
+    height: 250px;
+}
+
+#content-contact {
+	margin: 0 0 10px 0;
+	padding: 0 0 10px 0;
+	font-size: 40px;
+	font-weight: bold;
+	letter-spacing: -1px;
+}
+
+#top-content {
+	margin: 0 0 16px 0;
+	padding: 0 0 16px 0;
+
+	font-family: Georgia, serif;
+	font-size: 20px;
+	letter-spacing: -1px;
+}
+
+#content-summary {
+	margin: 0 0 16px 0;
+	padding: 0 0 30px 0;
+
+	font-style: italic;
+	font-size: 18px;
+}
+
+#professionalexp {
+	font-size: 28px;
+	font-weight: bold;
+}
+
+.date {
+	float: right;
+	font-style: italic;
+}
