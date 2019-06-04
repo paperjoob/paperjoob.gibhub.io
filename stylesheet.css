@@ -21,15 +21,6 @@ body {background-color: lavenderblush;
 	letter-spacing: -1px;
 }
 
-#top-content {
-	margin: 0 0 16px 0;
-	padding: 0 0 16px 0;
-
-	font-family: Georgia, serif;
-	font-size: 20px;
-	letter-spacing: -1px;
-}
-
 #content-summary {
 	margin: 0 0 16px 0;
 	padding: 0 0 30px 0;
